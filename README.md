@@ -1,2 +1,2 @@
 # Worls-Exportir-Coffee
-this is the project that i'm doing analyst many country that doing coffee export. the first that i do is doing webscraping to get data and clean it by python, after that preparing data with SQL, and the last making the visualitation.
+"I'm currently working on a project analyzing coffee exports in various countries. The first step I took was web scraping to gather data, which I then cleaned using Python. After that, I prepared the data using SQL, and finally, I created visualizations to present the findings."
